@@ -7,3 +7,4 @@ on the page. Afterwards, the count is reset to zero and the user can continue to
 This application uses HTML, CSS, & JavaScript. This project is the first step in me completing the Front-End Developer Career Path from https://scrimba.com/learn/frontend. 
 The code used in the project takes inspiration from the Passenger Counter App tutorial on the Scrimba platform.
 
+![image](https://user-images.githubusercontent.com/87204321/141661198-e44824d3-6e01-4da9-a6e4-12e6b2f8d040.png)
